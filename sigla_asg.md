@@ -1,6 +1,8 @@
 
 https://www.etoro.com/es/investing/esg-investing/
+
 https://www.pactomundial.org/noticia/la-sostenibilidad-empresarial-desde-las-siglas-asg-o-esg/
+
 https://responsabilidadsocial.net/criterios-asg-y-esg-que-son-significado-indicadores-y-principios/
 
 
