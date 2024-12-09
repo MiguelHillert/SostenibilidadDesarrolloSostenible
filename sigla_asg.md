@@ -10,7 +10,7 @@ El criterio ambiental, aquí se incluyen los efectos negativos que puede causar 
 
 - 🧑‍🤝‍🧑 **Sociales**
 
-En este criterio, el social, se incluye las relaciones de una empresa con todos sus integrantes, destacan el cumplimiento normativo,las politicas de diversidad e inclusión, el trato justo respecto a los empleados y proyectos para impulsar la comunidad.
+En este criterio, el social, se incluye las relaciones de una empresa con todos sus integrantes, destacan el cumplimiento normativo, las politicas de diversidad e inclusión, el trato justo respecto a los empleados y proyectos para impulsar la comunidad.
 
 - 👩🏼‍💼 **Gubernamentales**
 
