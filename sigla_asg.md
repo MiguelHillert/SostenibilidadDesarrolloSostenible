@@ -6,7 +6,7 @@ Las _**siglas ASG**_ (o ESG en inglés) son las iniciales de los tres pilares de
 
 - 🌻 **Ambientales**
 
-El criterio ambiental, aquí se incluyen los efectos negativos que puede causar una empresa en el medio ambiente (uso de plásticos, conservación y gasto de agua, huella de carbono, reciclaje general o el uso de energías renovables.
+El criterio ambiental, aquí se incluyen los efectos negativos que puede causar una empresa en el medio ambiente (uso de plásticos, conservación y gasto de agua, huella de carbono, reciclaje general o el uso de energías renovables).
 
 - 🧑‍🤝‍🧑 **Sociales**
 
