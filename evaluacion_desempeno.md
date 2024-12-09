@@ -54,12 +54,12 @@ _**Utilización de energía sostenible**_: Proporción de energía total consumi
 _**Gestión de Residuos**_: Cantidad de residuos generados y porcentaje reciclado.
 
 _**Diversidad e inclusión**_: indicadores de variedad en género, antecedentes y elementos adicionales en la fuerza laboral y el liderazgo. Los riesgos al no haber diversidad e igualdad pueden ser:
-- Riesgos de productividad y eficiencia( Desaprovechamiento de talento,Desmotivación y baja satisfacción laboral,etc )
-- Riesgos económicos y financieros( Costos de rotación y reemplazo,Menor rendimiento financiero,etc )
-- Riesgos de reputación y marca( Percepción negativa,Pérdida de confianza en la sociedad,etc )
-- Riesgos para la cohesión y estabilidad social( Polarización y conflicto social,Limitación del desarrollo humano,etc )
-- Riesgos de innovación y adaptabilidad( Falta de diversidad en la toma de decisiones,Inhibición de la creatividad,etc )
-- Riesgos de bienestar y salud en el lugar de trabajo( Ambientes laborales tóxicos,Impacto en la salud mental,etc )
+- Riesgos de productividad y eficiencia (Desaprovechamiento de talento,Desmotivación y baja satisfacción laboral,etc)
+- Riesgos económicos y financieros (Costos de rotación y reemplazo,Menor rendimiento financiero,etc)
+- Riesgos de reputación y marca (Percepción negativa,Pérdida de confianza en la sociedad,etc)
+- Riesgos para la cohesión y estabilidad social (Polarización y conflicto social,Limitación del desarrollo humano,etc)
+- Riesgos de innovación y adaptabilidad (Falta de diversidad en la toma de decisiones,Inhibición de la creatividad,etc)
+- Riesgos de bienestar y salud en el lugar de trabajo (Ambientes laborales tóxicos,Impacto en la salud mental,etc)
 
 
 7. **🏗️ Impacto de la Evaluación de la Sostenibilidad en el Valor Corporativo**
